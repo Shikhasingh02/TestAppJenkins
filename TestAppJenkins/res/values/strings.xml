@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">TestAppJenkins</string>
-    <string name="hello_world">Hello, We are on CI</string>
+    <string name="hello_world">Hello, We are on CI!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
